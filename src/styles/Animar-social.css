@@ -24,7 +24,7 @@
 
 .social-link-effect {
   transform: skewY(45deg) translate(-50%, -50%);
-  background-color: #007bff;
+  background-color: #ff009d;
   height: inherit;
   width: inherit;
   position: absolute;
@@ -40,7 +40,7 @@
 }
 
 .social-link:hover {
-  color: rgba(128,0,214,0.918);
+  color: rgba(214, 0, 168, 0.918);
   transition: 0.5s all;
 }
 
