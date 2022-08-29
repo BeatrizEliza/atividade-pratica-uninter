@@ -1,3 +1,5 @@
+/*Style dos accordions*/
+
 .collapsible-link::before {
   content: '';
   width: 14px;
